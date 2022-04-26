@@ -6,7 +6,8 @@
   "scripts": {
     "list-files":"dir",
     "makedir":"mkdir created_By_Scripts",
-    "view-package":"cat package.json"
+    "view-package":"cat package.json",
+    "del-dir":"rmdir created_By_Scripts";
   },
   "repository": {
     "type": "git",
