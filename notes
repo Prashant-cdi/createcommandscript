@@ -1,0 +1,2 @@
+// these scripts can be run in the terminal by using:  npm run-script <script-name>
+// the scripts are made in the value of the key script of the package.json file

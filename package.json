@@ -1,0 +1,23 @@
+{
+  "name": "package1",
+  "version": "1.4.58",
+  "description": "test the package introduction",
+  "main": "main1.js",
+  "scripts": {
+    "list-files":"dir",
+    "makedir":"mkdir created_By_Scripts",
+    "view-package":"cat package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "intoduction",
+    "to",
+    "node"
+  ],
+  "author": "prashant",
+  "license": "ISC"
+}
+
